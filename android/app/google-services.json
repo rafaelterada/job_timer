@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014716234727",
+    "project_id": "job-timer-e2ac1",
+    "storage_bucket": "job-timer-e2ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014716234727:android:cb04e7162654ef38199b42",
+        "android_client_info": {
+          "package_name": "br.dev.andresimoes.job_timer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014716234727-gn2q754qmp2tnohlgk8ibas66d6dqnlf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaHMnjWYxU4-h_BRS8tl5-6Brfec-2l1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014716234727-gn2q754qmp2tnohlgk8ibas66d6dqnlf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
